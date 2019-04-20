@@ -662,9 +662,8 @@ a.btn {
     margin-top: 60px;
     position: absolute;
     border-right: none;
-    background-image: url("../images/background-sidebar@1x.png");
     background-size: 400px;
-    background-position: center bottom;
+    background-position: center -20px;
     background-repeat: no-repeat;
     z-index: 1;
   }
