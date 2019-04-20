@@ -404,14 +404,19 @@ a:hover, a:active {
 }
 
 /*for archive*/
-.archive {
+.archive-wrapper {
   width: 100%;
 }
 
 .list-with-title {
   font-size: 14px;
-  margin: 30px;
+  margin: 40px 0 40px 50px;
+  width: 70%;
   padding: 0;
+}
+.list-with-title .pagination{
+  width: 100%;
+  margin: 0;
 }
 .list-with-title li {
   list-style-type: none;
