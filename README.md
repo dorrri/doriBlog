@@ -1,2 +1,2 @@
 ## My personal blog
-www.dorrri.com
+https://dorrri.com/
